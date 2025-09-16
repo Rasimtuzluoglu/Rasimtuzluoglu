@@ -12,7 +12,7 @@ Java • Spring Boot • Hibernate • MySQL • Maven • Git • REST API
 ---
 
 ## 📫 İletişim
-[LinkedIn](https://www.linkedin.com/in/rasimtuzluoglu) • [E-mail](rasimtuzluoglu12@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rasimtuzluoglu311) • [E-mail](rasimtuzluoglu12@gmail.com)
 
 
 <!--
