@@ -1,4 +1,19 @@
-## Hi there 👋
+# 👋 Merhaba!
+
+🚀 Aspiring Full Stack Developer | Java, Spring Boot, MySQL & Hibernate  
+🌱 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım  
+💡 Açık kaynak projelere katkıda bulunmayı seviyorum  
+
+---
+
+## 🛠️ Teknolojiler
+Java • Spring Boot • Hibernate • MySQL • Maven • Git • REST API
+
+---
+
+## 📫 İletişim
+[LinkedIn](https://www.linkedin.com/in/rasimtuzluoglu) • [E-mail](rasimtuzluoglu12@gmail.com)
+
 
 <!--
 **Rasimtuzluoglu/Rasimtuzluoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
