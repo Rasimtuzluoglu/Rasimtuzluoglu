@@ -10,7 +10,7 @@
 
 Java • Spring Boot • Hibernate • MySQL • Maven • Git • REST API
 
-📫 İletişim
+📫 İletişim -->
 Linkedin
 https://www.linkedin.com/in/rasimtuzluoglu311
 E mail 
