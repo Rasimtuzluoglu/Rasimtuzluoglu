@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rasim Tuzluoğlu</h1>
 <h3 align="center">💻 Aspiring Java Backend Developer | Passionate about Clean Code & Scalable Systems</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasimtuzluoglu" alt="rasimtuzluoglu" /></a> </p>
+
 - 🔭 I’m currently working on **Sales and Stock Management System using Java & MySQL**
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, JPA, MySQL, and Backend Architecture**
@@ -26,4 +28,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasimtuzluoglu&show_icons=true&locale=en&layout=compact" alt="rasimtuzluoglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasimtuzluoglu&" alt="rasimtuzluoglu" /></p>
-
