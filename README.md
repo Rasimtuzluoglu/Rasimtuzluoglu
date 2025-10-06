@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rasim Tuzluoğlu</h1>
 <h3 align="center">💻 Aspiring Java Backend Developer | Passionate about Clean Code & Scalable Systems</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasimtuzluoglu&label=Profile%20views&color=0e75b6&style=flat" alt="rasimtuzluoglu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasimtuzluoglu" alt="rasimtuzluoglu" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/rasimtuzluoglu" target="blank"><img src="https://img.shields.io/twitter/follow/rasimtuzluoglu?logo=twitter&style=for-the-badge" alt="rasimtuzluoglu" /></a> </p>
+
 - 🔭 I’m currently working on **Sales and Stock Management System using Java & MySQL**
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, JPA, MySQL, and Backend Architecture**
@@ -17,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/rasimtuzluoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasimtuzluoglu" height="30" width="40" /></a>
 <a href="https://fb.com/rasim.tuzluoglu.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasim.tuzluoglu.7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/rasimtuzluoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rasimtuzluoglu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rasimtuzluoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rasimtuzluoglu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasimtuzluoglu&show_icons=true&locale=en" alt="rasimtuzluoglu" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasimtuzluoglu&" alt="rasimtuzluoglu" /></p>
