@@ -26,3 +26,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasimtuzluoglu&show_icons=true&locale=en&layout=compact" alt="rasimtuzluoglu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasimtuzluoglu&show_icons=true&locale=en" alt="rasimtuzluoglu" /></p>
+
+<br clear="both">
+
+<h3 align="left">🐍 Snake eating my contributions:</h3>
+
+![snake gif](https://github.com/Rasimtuzluoglu/Rasimtuzluoglu/blob/output/github-contribution-grid-snake.svg)
