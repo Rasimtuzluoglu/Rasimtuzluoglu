@@ -1,4 +1,4 @@
-89<h1 align="center">Hi 👋, I'm Rasim Tuzluoğlu</h1>
+<h1 align="center">Hi 👋, I'm Rasim Tuzluoğlu</h1>
 <h3 align="center">💻 Aspiring Java Backend Developer | Passionate about Spring Boot, PostgreSQL & Docker</h3>
 
 - 🔭 I’m currently working on **Sales and Stock Management System** (Backend: Spring Boot & PostgreSQL)
