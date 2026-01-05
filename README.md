@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rasim Tuzluoğlu</h1>
+89<h1 align="center">Hi 👋, I'm Rasim Tuzluoğlu</h1>
 <h3 align="center">💻 Aspiring Java Backend Developer | Passionate about Spring Boot, PostgreSQL & Docker</h3>
 
 - 🔭 I’m currently working on **Sales and Stock Management System** (Backend: Spring Boot & PostgreSQL)
@@ -31,8 +31,3 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Stats:</h3>
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasimtuzluoglu&show_icons=true&locale=en&layout=compact&theme=radical" alt="rasimtuzluoglu" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasimtuzluoglu&show_icons=true&locale=en&theme=radical" alt="rasimtuzluoglu" />
-</p>
