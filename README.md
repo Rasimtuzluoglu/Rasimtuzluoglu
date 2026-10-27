@@ -94,7 +94,7 @@ Karmaşık iş ihtiyaçlarını anlaşılır, sürdürülebilir ve kullanışlı
 
 ### ☕ Backend Geliştirme
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" alt="Java, Spring Boot, Hibernate, Maven ve Gradle" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java, Spring Boot, Hibernate, Maven" />
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
