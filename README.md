@@ -92,43 +92,49 @@ Karmaşık iş ihtiyaçlarını anlaşılır, sürdürülebilir ve kullanışlı
 
 <div align="center">
 
-### Backend
+### ☕ Backend Geliştirme
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Java, Spring ve Hibernate" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" alt="Java, Spring Boot, Hibernate, Maven ve Gradle" />
 
-### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" alt="React, TypeScript, JavaScript, HTML ve CSS" />
+### ⚛️ Frontend Geliştirme
 
-### Veritabanı ve Altyapı
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,tailwind,redux" alt="React, TypeScript, JavaScript, Vite, Tailwind CSS ve Redux" />
 
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux" alt="PostgreSQL, Docker, Git, GitHub ve Linux" />
+<p>
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-</div>
+### 🗄️ Veritabanı ve Veri Yönetimi
 
----
+<img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL ve Redis" />
 
-## 📊 GitHub İstatistikleri
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-<div align="center">
+### 🧪 Test ve API Dokümantasyonu
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rasimtuzluoglu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="GitHub istatistikleri" />
+<p>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=java&logoColor=white" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger ve OpenAPI" />
+</p>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasimtuzluoglu&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&langs_count=6" alt="En çok kullanılan programlama dilleri" />
+### 🐳 DevOps ve Geliştirme Araçları
 
-  <br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,githubactions" alt="Docker, Git, GitHub, Linux, Nginx ve GitHub Actions" />
 
-  <img src="https://streak-stats.demolab.com?user=Rasimtuzluoglu&hide_border=true&background=0D1117&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub katkı serisi" />
-
-</div>
-
----
-
-## 📈 Geliştirme Aktivitesi
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rasimtuzluoglu&bg_color=0D1117&color=C9D1D9&line=60A5FA&point=818CF8&area=true&hide_border=true&custom_title=GitHub%20Katk%C4%B1%20Grafi%C4%9Fi" width="100%" alt="GitHub aktivite grafiği" />
+<p>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+</p>
 
 </div>
 
