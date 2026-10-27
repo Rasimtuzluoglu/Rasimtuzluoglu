@@ -1,33 +1,148 @@
-<h1 align="center">Hi 👋, I'm Rasim Tuzluoğlu</h1>
-<h3 align="center">💻 Aspiring Java Backend Developer | Passionate about Spring Boot, PostgreSQL & Docker</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Sales and Stock Management System** (Backend: Spring Boot & PostgreSQL)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:312E81&height=200&section=header&text=Rasim%20Tuzluo%C4%9Flu&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Building%20software%20that%20solves%20real%20problems&descSize=15&descAlignY=62&descColor=A5B4FC" width="100%" alt="Rasim Tuzluoğlu — Software Developer" />
 
-- 🌱 I’m currently learning **Docker, Hibernate, JPA, and Advanced Microservices Architecture**
+<br/>
 
-- 🎓 Graduate of **Computer Programming - Çukurova University**
+### Software Developer · Backend & Business Applications
 
-- 🏗️ Past Experience: IT Internships at **Ankara Hacı Bayram Veli University** and **Hatay National Education Directorate**
+*Turning ideas into practical, maintainable software.*
 
-- 💬 Ask me about **Java, Spring Boot, Relational Databases, and Backend Development**
+<br/>
 
-- 📫 How to reach me **rasimtuzluoglu12@gmail.com**
+[![GitHub](https://img.shields.io/badge/GitHub-Rasimtuzluoglu-181717?style=for-the-badge&logo=github)](https://github.com/Rasimtuzluoglu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rasimtuzluoglu311/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rasimtuzluoglu311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasimtuzluoglu311" height="30" width="40" /></a>
-<a href="https://twitter.com/rasimtuzluoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasimtuzluoglu" height="30" width="40" /></a>
-<a href="https://fb.com/rasim.tuzluoglu.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasim.tuzluoglu.7" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+---
 
+## 👋 About Me
+
+I'm **Rasim Tuzluoğlu**, a software developer interested in backend engineering, database design, and building practical business applications.
+
+I enjoy turning complex business requirements into structured software solutions, with a focus on maintainability, reliability, and usability.
+
+- 🚀 **Currently building:** RasPel ERP, a business management platform.
+- 🧩 **Interested in:** Backend architecture, enterprise applications, and database design.
+- 💻 **Working with:** Java, Spring Boot, PostgreSQL, React, and Docker.
+- 🌱 **Always learning:** Better software architecture, deployment practices, and development workflows.
+- 🎯 **My goal:** Build useful software products that solve real-world problems.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 RasPel ERP
+
+A business management platform designed for small and medium-sized businesses.
+
+**Focus areas**
+- Finance and commercial operations
+- Inventory management
+- Workforce management
+- Business workflows
+
+**Technologies:** Java · Spring Boot · PostgreSQL
+
+[**Explore Repository →**](https://github.com/Rasimtuzluoglu/raspel-erp)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 RasPel Fin
+
+A financial management application focused on organizing financial operations.
+
+**Focus areas**
+- Expense management
+- Credit card tracking
+- Department budgets
+- Financial reminders
+
+**Technologies:** Java
+
+[**Explore Repository →**](https://github.com/Rasimtuzluoglu/raspel-fin)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 TheMoviA
+
+A software project exploring application development and implementation.
+
+[**Explore Repository →**](https://github.com/Rasimtuzluoglu/TheMoviA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ More Projects
+
+Explore my repositories to discover my ongoing work, experiments, and other software projects.
+
+[**Browse All Repositories →**](https://github.com/Rasimtuzluoglu?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Technologies & Tools
+
+<div align="center">
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Java, Spring Boot and Hibernate" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" alt="Frontend technologies" />
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux" alt="PostgreSQL, Docker, Git, GitHub and Linux" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rasimtuzluoglu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasimtuzluoglu&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Rasimtuzluoglu&hide_border=true&background=0D1117&ring=818CF8&fire=60A5FA&currStreakLabel=818CF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in software development, exchanging ideas, and building useful products.
+
+<div align="center">
+
+**Have an interesting project or idea? Let's connect.**
+
+[![GitHub](https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github)](https://github.com/Rasimtuzluoglu)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rasimtuzluoglu311/)
+
+<br/>
+
+<sub>Building, learning, and improving — one commit at a time.</sub>
+
+</div>
