@@ -1,92 +1,27 @@
- <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3" width="100%" alt="" />
-
-  # Rasim Tuzluoğlu
-
-  **Software Developer · Founder of RasPel Co.**
-
-  Java & Spring Boot ile işletmelerin günlük işlerini kolaylaştıran yazılımlar geliştiriyorum.
-
-  [GitHub](https://github.com/Rasimtuzluoglu) · [LinkedIn](https://www.linkedin.com/in/rasimtuzluoglu311/)
-
-</div>
-
----
-
-## Hakkımda
-
-Yazılımı kendi kendime öğrendim. Şu anda Türkiye'deki küçük ve orta ölçekli işletmeler için yazılımlar geliştirdiğim **RasPel Co.** üzerinde çalışıyorum.
-
-Amacım; işletmelerin finans, stok, fatura ve operasyon süreçlerini tek bir platformda, sade ve kullanışlı bir deneyimle yönetebilmesini sağlamak.
-
-- **Şu an:** RasPel ERP geliştiriyorum.
-- **Odak alanlarım:** Backend geliştirme, çok kiracılı mimari ve finansal yazılımlar.
-- **Yaklaşımım:** Kullanımı kolay, bakımı sürdürülebilir ve güvenilir sistemler.
-
-## Projeler
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### RasPel ERP
-
-KOBİ'ler için işletme yönetimi ve ön muhasebe platformu.
-
-- Cari hesap, fatura ve stok yönetimi
-- Personel yönetimi
-- Dahili sohbet ve ajanda
-- Çok kiracılı mimari ve Docker dağıtımı
-
-**Teknolojiler**
-
-`Java 21` `Spring Boot` `Vue 3` `PostgreSQL`
-
-[Repoyu incele →](https://github.com/Rasimtuzluoglu/raspel-erp)
-
-    </td>
-    <td width="50%" valign="top">
-
-### RasPel Fin
-
-Gider, taksit ve bütçe süreçlerini yönetmek için geliştirilen finans platformu.
-
-- Kredi kartı taksit takibi
-- Departman bütçeleri
-- Telegram hatırlatmaları
-- Ortalama vade hesaplama
-
-**Teknolojiler**
-
-`Java 21` `Spring Boot` `Vaadin` `PostgreSQL`
-
-[Repoyu incele →](https://github.com/Rasimtuzluoglu/raspel-fin)
-
-    </td>
-  </tr>
-</table>
-
-## Teknolojiler
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,tailwind,postgres,redis,rabbitmq,docker,githubactions,git,linux" alt="Java, Spring Boot, Vue, Tailwind CSS, PostgreSQL, Redis, RabbitMQ, Docker, GitHub Actions, Git ve Linux" />
-</div>
-
-## Diğer çalışmalarım
-
-[TheMoviA](https://github.com/Rasimtuzluoglu/TheMoviA) · [Tüm repolarım](https://github.com/Rasimtuzluoglu?tab=repositories)
-
----
-
 <div align="center">
 
-  Yeni fikirler, yazılım projeleri ve iş birlikleri için:
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1e1b4b,100:312E81&height=300&section=header&text=Rasim%20Tuzluo%C4%9Flu&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=software%20that%20runs%20real%20businesses&descSize=18&descAlignY=62&animation=twinkling&stroke=818CF8&strokeWidth=1" width="100%" alt="Rasim Tuzluoğlu" />
 
-  [LinkedIn üzerinden iletişime geç](https://www.linkedin.com/in/rasimtuzluoglu311/)
+<a href="https://github.com/Rasimtuzluoglu">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=760&height=45&lines=%24+whoami+%E2%86%92+self-taught+backend+developer;%24+git+commit+-m+%22one+dashboard%2C+one+truth%22;Java+21+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL+%C2%B7+Vue+3;Founder+%40+RasPel+Co.+%E2%80%94+KOB%C4%B0'nin+Tek+Panosu;%24+deploy+--watch+--live" alt="Typing animation" />
+</a>
 
-  <br/>
+<br/><br/>
 
-  <sub>Building practical software for real-world problems.</sub>
+[![](https://img.shields.io/badge/-Rasimtuzluoglu-0D1117?style=for-the-badge&logo=github&logoColor=818CF8)](https://github.com/Rasimtuzluoglu)
+[![](https://img.shields.io/badge/-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasimtuzluoglu311/)
+[![](https://img.shields.io/badge/-RasPel_Co.-312E81?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Rasimtuzluoglu)
+
+<br/>
+
+![](https://img.shields.io/badge/NOW_BUILDING-RasPel_ERP-818CF8?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/NOW_LEARNING-Observability-60A5FA?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/NOW_BREWING-T%C3%BCrk_Kahvesi-A5B4FC?style=for-the-badge&labelColor=0D1117)
 
 </div>
+
+<br/>
+
+```diff
+- 🐌 Five programs, three notebooks, one very tired shop owner
++ ⚡ One dashboard. One source of truth. One morning coffee.
