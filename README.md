@@ -1,34 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1e1b4b,100:312E81&height=300&section=header&text=Rasim%20Tuzluo%C4%9Flu&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=software%20that%20runs%20real%20businesses&descSize=18&descAlignY=62&animation=twinkling&stroke=818CF8&strokeWidth=1" width="100%" alt="Rasim Tuzluoğlu" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:818CF8,50:60A5FA,100:312E81&height=3&section=header" width="100%" alt="" />
-
-<a href="https://github.com/Rasimtuzluoglu">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=780&height=45&lines=%24+whoami+%E2%86%92+self-taught+backend+developer;%24+git+commit+-m+%22one+dashboard%2C+one+truth%22;Java+21+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL+%C2%B7+Vue+3;Founder+%40+RasPel+Co.+%E2%80%94+KOB%C4%B0'nin+Tek+Panosu;%24+deploy+--watch+--live" alt="Typing animation" />
-</a>
-
-<br/><br/>
-
-[![](https://img.shields.io/badge/-Rasimtuzluoglu-0D1117?style=for-the-badge&logo=github&logoColor=818CF8)](https://github.com/Rasimtuzluoglu)
-[![](https://img.shields.io/badge/-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasimtuzluoglu311/)
-[![](https://img.shields.io/badge/-RasPel_Co.-312E81?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Rasimtuzluoglu)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:312E81&height=200&section=header&text=Rasim%20Tuzluo%C4%9Flu&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Building%20software%20that%20solves%20real%20problems&descSize=15&descAlignY=62&descColor=A5B4FC" width="100%" alt="Rasim Tuzluoğlu — Software Developer" />
 
 <br/>
 
-![](https://img.shields.io/badge/NOW_BUILDING-RasPel_ERP-818CF8?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/NOW_LEARNING-Observability-60A5FA?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/NOW_BREWING-T%C3%BCrk_Kahvesi-A5B4FC?style=for-the-badge&labelColor=0D1117)
+### Software Developer · Backend & Business Applications
+
+*Turning ideas into practical, maintainable software.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rasimtuzluoglu-181717?style=for-the-badge&logo=github)](https://github.com/Rasimtuzluoglu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rasimtuzluoglu311/)
 
 </div>
 
+---
+
+## 👋 About Me
+
+I'm **Rasim Tuzluoğlu**, a software developer interested in backend engineering, database design, and building practical business applications.
+
+I enjoy turning complex business requirements into structured software solutions, with a focus on maintainability, reliability, and usability.
+
+- 🚀 **Currently building:** RasPel ERP, a business management platform.
+- 🧩 **Interested in:** Backend architecture, enterprise applications, and database design.
+- 💻 **Working with:** Java, Spring Boot, PostgreSQL, React, and Docker.
+- 🌱 **Always learning:** Better software architecture, deployment practices, and development workflows.
+- 🎯 **My goal:** Build useful software products that solve real-world problems.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 RasPel ERP
+
+A business management platform designed for small and medium-sized businesses.
+
+**Focus areas**
+- Finance and commercial operations
+- Inventory management
+- Workforce management
+- Business workflows
+
+**Technologies:** Java · Spring Boot · PostgreSQL
+
+[**Explore Repository →**](https://github.com/Rasimtuzluoglu/raspel-erp)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 RasPel Fin
+
+A financial management application focused on organizing financial operations.
+
+**Focus areas**
+- Expense management
+- Credit card tracking
+- Department budgets
+- Financial reminders
+
+**Technologies:** Java
+
+[**Explore Repository →**](https://github.com/Rasimtuzluoglu/raspel-fin)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 TheMoviA
+
+A software project exploring application development and implementation.
+
+[**Explore Repository →**](https://github.com/Rasimtuzluoglu/TheMoviA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ More Projects
+
+Explore my repositories to discover my ongoing work, experiments, and other software projects.
+
+[**Browse All Repositories →**](https://github.com/Rasimtuzluoglu?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Technologies & Tools
+
+<div align="center">
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Java, Spring Boot and Hibernate" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" alt="Frontend technologies" />
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux" alt="PostgreSQL, Docker, Git, GitHub and Linux" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rasimtuzluoglu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasimtuzluoglu&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Rasimtuzluoglu&hide_border=true&background=0D1117&ring=818CF8&fire=60A5FA&currStreakLabel=818CF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in software development, exchanging ideas, and building useful products.
+
+<div align="center">
+
+**Have an interesting project or idea? Let's connect.**
+
+[![GitHub](https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github)](https://github.com/Rasimtuzluoglu)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rasimtuzluoglu311/)
+
 <br/>
 
-```text
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
- boot.log — 03:14:07
- [ OK ] mounted one-dashboard.one-truth
- [ OK ] started rasim.service (self-taught, no degree required)
- [ OK ] loaded spring-boot-3.target
- [ WARN ] 5 programs detected — resolving into 1 board
- ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+<sub>Building, learning, and improving — one commit at a time.</sub>
+
+</div>
